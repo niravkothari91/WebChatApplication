@@ -1,2 +1,2 @@
 # WebChatApplication
-This is a Node.js and Express.js based chat application that handles and stores communication with the help of APIs
+A web application based on NodeJS and ExpressJS. With the help of EJS (a templating engine), the application uses flexible and modular code that dynamically changes behavior based on a configuration file. Moreover, the application leverages APIs designed specifically for the webapp to perform CRUD operations dynamically. Lastly, the webapp possesses generic implementations like feedback forms and live chat built on Socket.IO
